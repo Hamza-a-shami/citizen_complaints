@@ -1,0 +1,201 @@
+complaint_id,citizen_name,district,department,category,priority,status,date_filed,date_resolved,satisfaction_score,contact_number
+1,Ayesha Hussain,Faisalabad,Water & Sanitation,Water contamination,Low,Open,3/31/2025,,,0348078673
+2,Ahmed Farooq,Lahore,Water & Sanitation,No water supply,Medium,Open,7/23/2025,,,0348038374
+3,Bilal Aslam,Multan,Public Transport,Route cancellation,Low,Closed,3/9/2026,3/31/2026,5,0314612365
+4,Kamran Javed,Sialkot,Electricity,Power outage,Medium,In Progress,9/28/2025,,,0308707870
+5,Waqas Anwar,Sheikhupura,Electricity,Damaged transformer,Low,Open,1/6/2026,,,0344226067
+6,Usman Mahmood,Faisalabad,Water & Sanitation,Sewerage blockage,Critical,Closed,4/14/2025,5/9/2025,5,0337120868
+7,Fatima Javed,Rawalpindi,Police,Misconduct complaint,Low,Open,6/25/2025,,,0345107245
+8,Farhan Butt,Rawalpindi,Public Transport,Fare overcharging,Critical,In Progress,11/29/2025,,,0304842788
+9,Hina Anwar,Lahore,Police,Traffic violation ignored,Low,In Progress,11/19/2025,,,0319375710
+10,Farhan Farooq,Bahawalpur,Public Transport,Overcrowded bus,Low,In Progress,9/27/2025,,,0348187926
+11,Rabia Sheikh,Rahim Yar Khan,Waste Management,Overflowing bins,Critical,Open,4/4/2025,,,0302839607
+12,Waqas Sheikh,Rawalpindi,Roads & Infrastructure,Damaged footpath,Medium,Resolved,6/26/2026,6/30/2026,5,0302921859
+13,Mehwish Khan,Sheikhupura,Education,Building maintenance,Medium,Open,9/27/2025,,,0343997281
+14,Sana Ahmed,Sheikhupura,Electricity,Faulty meter,Medium,Closed,1/18/2026,1/29/2026,5,0341009594
+15,Imran Butt,Rahim Yar Khan,Police,Traffic violation ignored,Critical,Open,3/1/2025,,,0312321324
+16,Hassan Ahmed,Faisalabad,Public Transport,Bus delay,Medium,Escalated,5/2/2026,,,0343770370
+17,Sana Aslam,Gujranwala,Waste Management,Illegal dumping,High,Escalated,11/16/2025,,,0337264956
+18,Ahmed Javed,Sargodha,Public Transport,Bus delay,Low,Open,8/24/2025,,,0344694634
+19,Sara Malik,Lahore,Electricity,Power outage,Critical,Open,6/11/2026,,,0315672073
+20,Hina Sheikh,Sargodha,Health,Medicine unavailability,High,Resolved,9/6/2025,10/7/2025,,0312582524
+21,Ali Hussain,Faisalabad,Waste Management,Overflowing bins,Medium,In Progress,4/11/2025,,,0307754864
+22,Hassan Iqbal,Sialkot,Electricity,Voltage fluctuation,Medium,Open,7/7/2025,,,0328761611
+23,Ayesha Khan,Multan,Electricity,Damaged transformer,High,Closed,1/16/2025,1/22/2025,4,0317818496
+24,Bilal Iqbal,Sargodha,Public Transport,Overcrowded bus,Critical,Closed,1/3/2025,1/28/2025,5,0335785687
+25,Ali Javed,Bahawalpur,Public Transport,Overcrowded bus,Low,Open,3/4/2025,,,0321959074
+26,Bilal Malik,Lahore,Public Transport,Overcrowded bus,Medium,Open,3/11/2025,,,0317774229
+27,Hina Javed,Faisalabad,Health,Hospital staff shortage,Medium,Resolved,6/20/2026,6/30/2026,5,0316271130
+28,Mehwish Raza,Multan,Education,Overcrowded classroom,Medium,Open,3/16/2025,,,0308688755
+29,Hassan Anwar,Rahim Yar Khan,Electricity,Power outage,Medium,Resolved,12/24/2025,12/29/2025,4,0325781295
+30,Rabia Khan,Rawalpindi,Public Transport,Route cancellation,Critical,Resolved,11/3/2025,12/16/2025,2,0315437001
+31,Sara Butt,Faisalabad,Electricity,Voltage fluctuation,Medium,In Progress,9/28/2025,,,0349196204
+32,Ali Khan,Gujranwala,Water & Sanitation,No water supply,High,Resolved,12/8/2025,12/17/2025,5,0318412769
+33,Hassan Farooq,Sheikhupura,Waste Management,Garbage not collected,Critical,Open,2/6/2025,,,0323484601
+34,Ali Anwar,Bahawalpur,Roads & Infrastructure,Pothole,High,In Progress,1/2/2026,,,0315186414
+35,Usman Mahmood,Faisalabad,Police,Traffic violation ignored,High,Escalated,6/16/2025,,,0317917152
+36,Usman Chaudhry,Lahore,Roads & Infrastructure,Road construction delay,Medium,Closed,6/13/2025,7/28/2025,2,0331649691
+37,Imran Mahmood,Sargodha,Health,Medicine unavailability,Medium,Closed,8/22/2025,9/6/2025,1,0317685149
+38,Rabia Iqbal,Sialkot,Education,Teacher absenteeism,Low,Escalated,12/6/2025,,,0302935113
+39,Kamran Aslam,Gujranwala,Roads & Infrastructure,Road construction delay,Medium,Open,11/18/2025,,,0339580255
+40,Ahmed Farooq,Faisalabad,Waste Management,Illegal dumping,High,In Progress,7/21/2025,,,0328235969
+41,Imran Farooq,Faisalabad,Police,Misconduct complaint,Low,Resolved,11/13/2025,12/26/2025,,0327751158
+42,Bilal Javed,Gujranwala,Roads & Infrastructure,Broken streetlight,Critical,In Progress,11/5/2025,,,0331006810
+43,Sara Sheikh,Gujranwala,Education,Missing school supplies,Medium,In Progress,3/29/2026,,,0334585314
+44,Waqas Raza,Sheikhupura,Public Transport,Overcrowded bus,Low,Resolved,4/6/2025,4/22/2025,5,0314340845
+45,Fatima Sheikh,Rawalpindi,Water & Sanitation,No water supply,Medium,Open,3/1/2026,,,0344262081
+46,Ahmed Anwar,Bahawalpur,Public Transport,Fare overcharging,Medium,Open,4/20/2025,,,0334671545
+47,Ayesha Sheikh,Rawalpindi,Public Transport,Bus delay,Critical,Resolved,5/17/2025,6/16/2025,5,0346323376
+48,Adnan Sheikh,Sargodha,Waste Management,Missed collection schedule,High,Closed,9/23/2025,10/9/2025,5,0349130188
+49,Zainab Raza,Multan,Education,Overcrowded classroom,Low,Open,11/24/2025,,,0342351868
+50,Sana Malik,Rawalpindi,Roads & Infrastructure,Broken streetlight,Low,In Progress,3/1/2026,,,0336551268
+51,Nadia Anwar,Sheikhupura,Public Transport,Fare overcharging,High,Open,1/21/2025,,,0347381734
+52,Tariq Farooq,Sargodha,Water & Sanitation,Water contamination,Medium,In Progress,8/14/2025,,,0334681284
+53,Nadia Aslam,Gujranwala,Waste Management,Missed collection schedule,Low,Open,6/19/2025,,,0333141239
+54,Fatima Hussain,Rahim Yar Khan,Water & Sanitation,Pipe leakage,Medium,Resolved,3/15/2026,3/24/2026,4,0311843636
+55,Nadia Chaudhry,Gujranwala,Waste Management,Overflowing bins,Low,Open,3/8/2026,,,0322374158
+56,Fatima Rashid,Sargodha,Water & Sanitation,No water supply,Low,Escalated,2/11/2025,,,0305148725
+57,Ayesha Javed,Multan,Water & Sanitation,Sewerage blockage,Medium,Open,8/12/2025,,,0335299055
+58,Imran Malik,Sialkot,Roads & Infrastructure,Pothole,Low,Closed,1/27/2025,2/16/2025,3,0337654757
+59,Waqas Rashid,Multan,Electricity,Voltage fluctuation,High,Open,5/4/2025,,,0341689025
+60,Ahmed Mahmood,Sialkot,Waste Management,Overflowing bins,Medium,Open,3/7/2026,,,0332770648
+61,Rabia Hussain,Bahawalpur,Police,Traffic violation ignored,Medium,Resolved,10/4/2025,11/13/2025,5,0338799287
+62,Fatima Chaudhry,Bahawalpur,Education,Building maintenance,High,Closed,4/7/2026,4/23/2026,4,0347358385
+63,Sana Raza,Sialkot,Water & Sanitation,Pipe leakage,Low,Closed,9/22/2025,10/14/2025,5,0345635017
+64,Adnan Farooq,Sheikhupura,Water & Sanitation,Sewerage blockage,High,Open,9/4/2025,,,0339234615
+65,Usman Chaudhry,Sargodha,Water & Sanitation,No water supply,Medium,In Progress,1/13/2026,,,0339907391
+66,Imran Chaudhry,Sialkot,Waste Management,Overflowing bins,Medium,In Progress,8/25/2025,,,0304231028
+67,Zainab Aslam,Sialkot,Electricity,Voltage fluctuation,High,Open,6/22/2026,,,0345747930
+68,Ahmed Aslam,Faisalabad,Health,Poor sanitation in facility,Low,Open,5/10/2025,,,0321763626
+69,Ayesha Mahmood,Lahore,Education,Missing school supplies,High,Resolved,1/13/2025,2/19/2025,5,0339031491
+70,Adnan Malik,Sargodha,Police,Report not filed,Low,Escalated,3/8/2025,,,0339250138
+71,Imran Malik,Faisalabad,Water & Sanitation,Sewerage blockage,Medium,Open,9/12/2025,,,0307982241
+72,Hina Iqbal,Rahim Yar Khan,Health,Long wait times,Medium,Resolved,11/9/2025,12/16/2025,3,0302664863
+73,Bilal Farooq,Multan,Health,Poor sanitation in facility,Low,Resolved,3/18/2025,3/29/2025,1,0338558197
+74,Imran Aslam,Rahim Yar Khan,Public Transport,Route cancellation,Low,Open,4/10/2026,,,0304916201
+75,Hassan Anwar,Gujranwala,Health,Long wait times,Low,Open,9/30/2025,,,0312198058
+76,Imran Sheikh,Lahore,Roads & Infrastructure,Road construction delay,High,Resolved,5/8/2025,6/7/2025,5,0335567533
+77,Tariq Aslam,Sheikhupura,Public Transport,Fare overcharging,Low,Open,11/27/2025,,,0345200476
+78,Hina Javed,Lahore,Electricity,Voltage fluctuation,High,Escalated,1/22/2025,,,0321674975
+79,Hina Iqbal,Rawalpindi,Public Transport,Fare overcharging,Low,Escalated,5/19/2026,,,0308885465
+80,Bilal Raza,Sialkot,Waste Management,Overflowing bins,Low,In Progress,2/26/2026,,,0335835492
+81,Ayesha Rashid,Bahawalpur,Water & Sanitation,Pipe leakage,Low,Open,2/18/2026,,,0341019311
+82,Waqas Rashid,Sheikhupura,Public Transport,Fare overcharging,Medium,Open,5/26/2026,,,0331865901
+83,Adnan Malik,Multan,Education,Missing school supplies,Medium,Escalated,1/30/2025,,,0345014745
+84,Ayesha Sheikh,Rawalpindi,Education,Teacher absenteeism,Low,Resolved,5/1/2025,6/12/2025,3,0335896624
+85,Usman Sheikh,Sheikhupura,Education,Overcrowded classroom,Critical,Closed,5/29/2025,6/23/2025,4,0349526867
+86,Sara Anwar,Rawalpindi,Electricity,Faulty meter,High,Closed,6/4/2026,6/22/2026,1,0326008935
+87,Sara Farooq,Rahim Yar Khan,Public Transport,Overcrowded bus,Medium,In Progress,1/22/2026,,,0336398528
+88,Ali Raza,Multan,Health,Long wait times,High,Open,4/30/2026,,,0337477326
+89,Sara Mahmood,Rawalpindi,Public Transport,Bus delay,Critical,Open,4/13/2025,,,0332672884
+90,Hassan Malik,Sheikhupura,Public Transport,Bus delay,Medium,Resolved,4/26/2026,5/13/2026,,0347668663
+91,Adnan Mahmood,Faisalabad,Police,Traffic violation ignored,Medium,Escalated,2/6/2025,,,0342147909
+92,Ayesha Rashid,Multan,Education,Missing school supplies,Medium,Resolved,4/13/2025,5/12/2025,3,0321485654
+93,Hassan Butt,Lahore,Police,Delayed response,Medium,In Progress,6/28/2026,,,0334020853
+94,Usman Sheikh,Rawalpindi,Roads & Infrastructure,Pothole,Medium,Resolved,5/27/2025,6/11/2025,4,0328710313
+95,Bilal Malik,Gujranwala,Water & Sanitation,Pipe leakage,Medium,Escalated,3/29/2026,,,0326018975
+96,Nadia Mahmood,Bahawalpur,Education,Overcrowded classroom,Low,Closed,5/10/2026,5/17/2026,4,0337022335
+97,Nadia Chaudhry,Rahim Yar Khan,Education,Building maintenance,High,Open,1/9/2025,,,0341822825
+98,Kamran Butt,Rahim Yar Khan,Public Transport,Route cancellation,Low,Closed,7/14/2025,8/23/2025,5,0312630140
+99,Hassan Malik,Lahore,Education,Overcrowded classroom,Medium,Open,10/30/2025,,,0327970985
+100,Kamran Farooq,Rawalpindi,Health,Medicine unavailability,High,Closed,5/29/2026,6/16/2026,3,0329084065
+101,Usman Mahmood,Gujranwala,Police,Delayed response,Low,Resolved,2/11/2026,3/19/2026,,0307619862
+102,Zainab Javed,Lahore,Education,Teacher absenteeism,Medium,Resolved,1/26/2026,3/8/2026,,0304922880
+103,Fatima Hussain,Sargodha,Water & Sanitation,Water contamination,Low,Escalated,4/21/2026,,,0327850067
+104,Adnan Malik,Faisalabad,Roads & Infrastructure,Pothole,Low,Escalated,4/10/2025,,,0313276065
+105,Farhan Iqbal,Bahawalpur,Public Transport,Route cancellation,High,Resolved,6/8/2025,7/5/2025,2,0337847048
+106,Usman Mahmood,Gujranwala,Water & Sanitation,Water contamination,Medium,Open,1/7/2026,,,0307162857
+107,Ayesha Mahmood,Sheikhupura,Police,Delayed response,Low,In Progress,4/11/2026,,,0304558545
+108,Hassan Rashid,Rahim Yar Khan,Water & Sanitation,No water supply,Low,Closed,7/30/2025,8/4/2025,5,0314623062
+109,Zainab Mahmood,Multan,Police,Report not filed,Medium,Closed,5/29/2025,6/7/2025,5,0323927575
+110,Usman Javed,Faisalabad,Water & Sanitation,Sewerage blockage,High,Open,11/28/2025,,,0303923366
+111,Fatima Sheikh,Gujranwala,Water & Sanitation,Sewerage blockage,Medium,Resolved,4/5/2026,4/29/2026,5,0342829622
+112,Rabia Chaudhry,Sargodha,Health,Hospital staff shortage,Critical,Resolved,4/15/2026,5/27/2026,1,0309035982
+113,Fatima Anwar,Bahawalpur,Waste Management,Garbage not collected,Critical,Resolved,3/24/2025,4/14/2025,3,0312101965
+114,Imran Sheikh,Rawalpindi,Education,Building maintenance,Medium,In Progress,6/2/2026,,,0348217547
+115,Tariq Raza,Faisalabad,Electricity,Voltage fluctuation,High,In Progress,4/10/2026,,,0337979148
+116,Hassan Hussain,Faisalabad,Police,Traffic violation ignored,Low,In Progress,5/1/2026,,,0302530497
+117,Hassan Farooq,Faisalabad,Electricity,Damaged transformer,High,Open,3/3/2025,,,0346530541
+118,Tariq Mahmood,Faisalabad,Waste Management,Overflowing bins,Critical,Closed,2/22/2025,3/13/2025,3,0326899644
+119,Ayesha Raza,Faisalabad,Health,Medicine unavailability,Low,Resolved,1/12/2026,1/20/2026,5,0344794319
+120,Imran Anwar,Bahawalpur,Water & Sanitation,Water contamination,Low,Open,12/14/2025,,,0321102438
+121,Ahmed Malik,Rawalpindi,Roads & Infrastructure,Damaged footpath,High,Open,6/28/2026,,,0317311494
+122,Sara Rashid,Bahawalpur,Public Transport,Route cancellation,Low,Open,3/28/2025,,,0303610197
+123,Adnan Javed,Rawalpindi,Water & Sanitation,No water supply,Medium,In Progress,3/29/2026,,,0335582979
+124,Hina Sheikh,Multan,Electricity,Faulty meter,Low,In Progress,6/24/2026,,,0321761976
+125,Sana Rashid,Multan,Waste Management,Garbage not collected,Low,Open,5/21/2025,,,0325856117
+126,Hassan Iqbal,Sialkot,Electricity,Power outage,Medium,Resolved,6/30/2026,6/30/2026,5,0346941939
+127,Fatima Mahmood,Faisalabad,Waste Management,Garbage not collected,Medium,In Progress,11/17/2025,,,0348202195
+128,Sara Ahmed,Rahim Yar Khan,Waste Management,Missed collection schedule,Medium,In Progress,4/17/2026,,,0322478574
+129,Fatima Iqbal,Bahawalpur,Electricity,Voltage fluctuation,Medium,In Progress,11/14/2025,,,0324717362
+130,Rabia Butt,Sialkot,Roads & Infrastructure,Pothole,Low,Resolved,12/24/2025,1/16/2026,3,0312724773
+131,Fatima Ahmed,Rawalpindi,Education,Missing school supplies,Low,Open,5/21/2026,,,0338531380
+132,Mehwish Hussain,Rahim Yar Khan,Police,Misconduct complaint,Low,Open,11/7/2025,,,0321942411
+133,Kamran Mahmood,Sialkot,Electricity,Faulty meter,Low,Resolved,10/21/2025,10/26/2025,2,0349507186
+134,Sana Raza,Bahawalpur,Public Transport,Bus delay,High,In Progress,5/3/2026,,,0343531028
+135,Fatima Farooq,Lahore,Public Transport,Bus delay,High,Closed,6/26/2025,6/29/2025,4,0338372274
+136,Tariq Rashid,Sheikhupura,Roads & Infrastructure,Road construction delay,Low,In Progress,12/13/2025,,,0341878547
+137,Imran Chaudhry,Sialkot,Electricity,Faulty meter,Medium,Open,6/3/2025,,,0322367376
+138,Nadia Ahmed,Rahim Yar Khan,Roads & Infrastructure,Road construction delay,Medium,In Progress,3/28/2025,,,0327319630
+139,Kamran Khan,Sialkot,Roads & Infrastructure,Pothole,Medium,Resolved,1/7/2026,1/27/2026,3,0316733317
+140,Imran Mahmood,Sargodha,Health,Medicine unavailability,Low,Escalated,4/14/2025,,,0349833734
+141,Bilal Mahmood,Lahore,Police,Report not filed,Low,Resolved,6/19/2025,7/18/2025,1,0337111929
+142,Usman Farooq,Multan,Public Transport,Route cancellation,High,Closed,9/2/2025,9/22/2025,4,0317171347
+143,Rabia Farooq,Rahim Yar Khan,Public Transport,Fare overcharging,High,Closed,3/5/2026,3/16/2026,4,0343321942
+144,Ayesha Aslam,Gujranwala,Water & Sanitation,Pipe leakage,Medium,Closed,6/13/2026,6/21/2026,5,0303689594
+145,Usman Mahmood,Gujranwala,Public Transport,Overcrowded bus,Low,Closed,4/7/2026,4/30/2026,1,0331893502
+146,Usman Khan,Bahawalpur,Police,Report not filed,Low,In Progress,11/23/2025,,,0306625238
+147,Hassan Rashid,Rawalpindi,Roads & Infrastructure,Pothole,High,In Progress,4/26/2026,,,0331088100
+148,Waqas Farooq,Faisalabad,Water & Sanitation,Water contamination,Low,Open,3/10/2026,,,0305833542
+149,Waqas Sheikh,Multan,Education,Teacher absenteeism,Medium,Open,3/6/2025,,,0309385742
+150,Ahmed Javed,Rahim Yar Khan,Water & Sanitation,Sewerage blockage,Low,Resolved,12/28/2025,1/13/2026,3,0334142605
+151,Rabia Farooq,Faisalabad,Police,Delayed response,Medium,Escalated,1/21/2025,,,0338887557
+152,Fatima Raza,Lahore,Waste Management,Overflowing bins,Low,In Progress,9/4/2025,,,0306578736
+153,Bilal Mahmood,Rawalpindi,Water & Sanitation,Water contamination,High,Resolved,4/21/2026,6/5/2026,4,0313262450
+154,Sana Anwar,Faisalabad,Public Transport,Bus delay,Low,In Progress,2/12/2025,,,0326202210
+155,Sana Chaudhry,Sheikhupura,Waste Management,Missed collection schedule,High,In Progress,1/1/2026,,,0306568772
+156,Mehwish Anwar,Gujranwala,Electricity,Faulty meter,Medium,In Progress,1/31/2026,,,0324134272
+157,Fatima Aslam,Sargodha,Public Transport,Route cancellation,Medium,Escalated,3/11/2026,,,0308224389
+158,Imran Chaudhry,Rahim Yar Khan,Roads & Infrastructure,Road construction delay,Low,In Progress,4/2/2026,,,0348149041
+159,Kamran Javed,Rawalpindi,Public Transport,Route cancellation,High,In Progress,3/22/2026,,,0321962308
+160,Bilal Khan,Faisalabad,Waste Management,Overflowing bins,High,Resolved,5/27/2025,7/5/2025,4,0303117788
+161,Ali Javed,Faisalabad,Health,Poor sanitation in facility,Critical,In Progress,6/7/2025,,,0337223751
+162,Nadia Raza,Sialkot,Public Transport,Bus delay,Medium,Resolved,10/13/2025,10/29/2025,2,0304121368
+163,Mehwish Butt,Sargodha,Waste Management,Garbage not collected,Low,In Progress,10/20/2025,,,0334358435
+164,Mehwish Malik,Faisalabad,Roads & Infrastructure,Pothole,High,Resolved,11/24/2025,1/6/2026,,0305871470
+165,Ayesha Butt,Gujranwala,Roads & Infrastructure,Broken streetlight,Medium,Closed,5/23/2025,6/8/2025,4,0307054838
+166,Waqas Anwar,Sheikhupura,Police,Traffic violation ignored,Medium,Closed,3/30/2025,4/4/2025,5,0339030667
+167,Sara Hussain,Sheikhupura,Waste Management,Missed collection schedule,Low,Closed,3/17/2025,4/15/2025,4,0346779998
+168,Ali Mahmood,Rawalpindi,Roads & Infrastructure,Broken streetlight,Critical,In Progress,5/8/2025,,,0343567173
+169,Kamran Farooq,Gujranwala,Roads & Infrastructure,Broken streetlight,High,In Progress,10/18/2025,,,0305204459
+170,Fatima Farooq,Multan,Education,Missing school supplies,Medium,Resolved,6/22/2025,7/30/2025,3,0313872269
+171,Ali Hussain,Rahim Yar Khan,Police,Delayed response,Low,Closed,9/29/2025,11/10/2025,4,0347989166
+172,Imran Sheikh,Rahim Yar Khan,Water & Sanitation,Pipe leakage,Medium,Closed,9/8/2025,10/22/2025,,0328609207
+173,Sana Raza,Faisalabad,Water & Sanitation,Sewerage blockage,Medium,In Progress,5/28/2025,,,0326357240
+174,Ayesha Raza,Sialkot,Waste Management,Illegal dumping,Medium,Closed,9/5/2025,10/5/2025,2,0328542969
+175,Waqas Iqbal,Multan,Roads & Infrastructure,Pothole,Critical,Open,9/12/2025,,,0316493461
+176,Rabia Sheikh,Rahim Yar Khan,Police,Report not filed,Medium,Closed,5/26/2026,6/15/2026,4,0302510773
+177,Ali Chaudhry,Bahawalpur,Public Transport,Overcrowded bus,Medium,Open,5/22/2026,,,0348895137
+178,Kamran Rashid,Gujranwala,Water & Sanitation,No water supply,High,In Progress,2/17/2026,,,0321759041
+179,Nadia Farooq,Bahawalpur,Water & Sanitation,Sewerage blockage,Low,In Progress,4/7/2026,,,0345692934
+180,Sara Farooq,Rahim Yar Khan,Electricity,Voltage fluctuation,Medium,Escalated,1/10/2026,,,0314339637
+181,Sara Rashid,Rahim Yar Khan,Waste Management,Garbage not collected,Low,Open,5/1/2026,,,0348666995
+182,Nadia Javed,Rawalpindi,Roads & Infrastructure,Road construction delay,Low,Escalated,11/3/2025,,,0346643410
+183,Sara Hussain,Sheikhupura,Public Transport,Route cancellation,Low,Resolved,4/23/2025,5/20/2025,3,0321447065
+184,Hina Javed,Rahim Yar Khan,Public Transport,Route cancellation,High,Escalated,8/22/2025,,,0309060593
+185,Hina Aslam,Rawalpindi,Waste Management,Illegal dumping,Low,Closed,4/23/2025,5/6/2025,1,0336262886
+186,Waqas Anwar,Bahawalpur,Roads & Infrastructure,Damaged footpath,Medium,Resolved,4/28/2026,5/2/2026,3,0344478616
+187,Bilal Sheikh,Sheikhupura,Police,Traffic violation ignored,Low,Resolved,6/30/2026,6/30/2026,5,0325435261
+188,Imran Butt,Rahim Yar Khan,Public Transport,Overcrowded bus,Low,Escalated,11/1/2025,,,0324477544
+189,Zainab Chaudhry,Sargodha,Police,Traffic violation ignored,Critical,In Progress,5/5/2025,,,0347370211
+190,Fatima Raza,Bahawalpur,Police,Report not filed,Low,In Progress,3/29/2026,,,0329037616
+191,Hassan Malik,Multan,Health,Poor sanitation in facility,Medium,Escalated,9/3/2025,,,0311851702
+192,Adnan Malik,Sheikhupura,Health,Medicine unavailability,Medium,Open,5/21/2025,,,0303649811
+193,Imran Raza,Bahawalpur,Public Transport,Fare overcharging,High,Resolved,10/20/2025,12/1/2025,1,0304896008
+194,Ali Mahmood,Sheikhupura,Water & Sanitation,Sewerage blockage,High,In Progress,2/11/2026,,,0334125790
+195,Sara Chaudhry,Gujranwala,Water & Sanitation,No water supply,Medium,In Progress,4/11/2026,,,0349796605
+196,Sara Ahmed,Sargodha,Roads & Infrastructure,Damaged footpath,High,In Progress,4/15/2026,,,0324123902
+197,Bilal Javed,Lahore,Police,Misconduct complaint,High,Resolved,2/20/2026,3/20/2026,5,0322455218
+198,Usman Khan,Bahawalpur,Electricity,Voltage fluctuation,Medium,Escalated,9/25/2025,,,0334951390
+199,Ahmed Chaudhry,Sargodha,Education,Building maintenance,High,In Progress,1/4/2026,,,0312042273
+200,Imran Aslam,Faisalabad,Public Transport,Route cancellation,Medium,Open,5/1/2025,,,0327166363
